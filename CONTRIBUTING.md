@@ -1,4 +1,4 @@
-# Contributing to symbol-cli
+# Contributing to yourdlt-cli
 
 First off, thank you for considering contributing to symbol-cli. 
 It’s people like you that make symbol-cli such a great tool.

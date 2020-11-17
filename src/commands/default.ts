@@ -19,7 +19,7 @@
 import * as updateNotifier from 'update-notifier';
 // eslint-disable-next-line @typescript-eslint/no-var-requires
 const pkg = require('../../../package.json');
-export const description = `Symbol CLI v${pkg.version}`;
+export const description = `YourDLT CLI v${pkg.version}`;
 
 updateNotifier({
     pkg,

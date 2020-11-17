@@ -1,7 +1,7 @@
 {
-    "name": "symbol-cli",
+    "name": "yourdlt-cli",
     "version": "0.22.1",
-    "description": "Command Line Interface (CLI) to interact with Symbol",
+    "description": "Command Line Interface (CLI) to interact with YourDLT",
     "main": "index.js",
     "scripts": {
         "pretest": "npm run build",
@@ -22,12 +22,12 @@
         "lint"
     ],
     "bin": {
-        "symbol-cli": "./bin/symbol-cli"
+        "yourdlt-cli": "./bin/yourdlt-cli"
     },
-    "bugs": "https://github.com/nemtech/symbol-cli/issues",
+    "bugs": "https://github.com/usingblockchain/yourdlt-cli/issues",
     "repository": {
         "type": "git",
-        "url": "https://github.com/nemtech/symbol-cli.git"
+        "url": "https://github.com/usingblockchain/yourdlt-cli.git"
     },
     "license": "Apache-2.0",
     "dependencies": {
